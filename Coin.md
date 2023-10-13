@@ -2,7 +2,10 @@
 import java.util.Scanner;
 public class Coins {
     public static void main(String args[]) {
-      
+
+      // Write a program that reads in a command line integer N (number of pennies) and prints the best way (fewest number of coins) to make change using US coins     
+     //  (quarters, dimes, nickels, and pennies only).
+        
         // Scanner object
         Scanner s = new Scanner(System.in);
         
